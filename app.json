@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.carlobeni.FirebaseAuth"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -30,6 +31,7 @@
       "eas": {
         "projectId": "7bf29a6c-0c53-44a0-9ff3-936d192aa615"
       }
-    }
+    },
+    "scheme": "firebase-auth"
   }
 }
